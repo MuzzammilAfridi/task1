@@ -2,8 +2,8 @@ import React from 'react'
 
 const Intro = () => {
   return (
-    <div className='h-[270px] pb-5  w-[628px] border shadow  bg-cyan-200'>
-      <div className="flex  bg-cyan-500 py-3 rounded-t-md  items-center justify-between ">
+    <div className='h-[270px] pb-5  w-[628px] border border-[#DCDCDC] shadow rounded-t-md bg-white'>
+      <div className="flex  bg-[#F4F7EC] overflow-hidden py-3 rounded-t-md  items-center justify-between ">
         <p className='ml-3'>A Little About Me</p>
         <button className='mr-3 border py-2 px-3 rounded'>Follow +</button>
       </div>

@@ -5,8 +5,8 @@ const Nav = () => {
     <div className='flex items-center justify-between px-10 h-[10vh] shadow-lg'>
       <div>Logo</div>
       <div className='flex gap-5 ml-20'>
-        <a href="#">Home</a>
-        <a href="#">Find Doctors</a>
+        <a href="/">Home</a>
+        <a href="/finddoctor">Find Doctors</a>
         <a href="#">About</a>
         </div>
       <div className='space-x-5'>
